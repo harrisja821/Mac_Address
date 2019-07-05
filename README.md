@@ -1,6 +1,6 @@
 # Mac_Address
 
-Tool for looking up MAC Addresses to find the company the owns them.
+Tool for looking up MAC Addresses to find the company that owns them.
 
 Usage :-
 
